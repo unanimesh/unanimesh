@@ -55,16 +55,6 @@ I'm an engineer at heart - driven by curiosity and a passion for building practi
 
 ---
 
-## 📬 Connect With Me
-
-| Platform | Link |
-|---|---|
-| 🌐 Portfolio | [unanimesh.github.io/unanimesh](https://unanimesh.github.io/unanimesh/) |
-| 💼 LinkedIn | [linkedin.com/in/un-animesh](https://www.linkedin.com/in/un-animesh) |
-| 🐙 GitHub | [github.com/unanimesh](https://github.com/unanimesh) |
-
----
-
 <div align="center">
 
 *Open to research collaborations, project partnerships, internship opportunities, and meaningful conversations about embedded systems, solar energy, AI, and autonomous systems.*
